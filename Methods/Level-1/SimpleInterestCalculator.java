@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import ja-va.util.Scanner;
 
 public class SimpleInterestCalculator {
 
